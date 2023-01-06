@@ -2,6 +2,6 @@
 
 ## Veri Seti
 
-Model eğitimi için UrbanSound8k kullanılmıştır. İndirmek için [link](https://urbansounddataset.weebly.com/urbansound8k.html).
+Model eğitimi için UrbanSound8k kullanılmıştır. Veri setini [buradan](https://urbansounddataset.weebly.com/urbansound8k.html) indirebilirsiniz.
 
-Ses sınıflandırması için kullanılan örnek ses dosyaları [edinburg](edinburg.wav)
+Ses sınıflandırması için kullanılan örnek ses dosyaları (edinburg.wav, PoliceSiren.wav) "UrbanSound8K/audio/edinburgh.wav" dizinine taşınmıştır. 
